@@ -3,7 +3,7 @@ package be.ephec.java.exercice.e01;
 import java.util.Scanner;
 
 public class Program {
-    public void Exercice() {
+    public void exercice() {
         Scanner sc = new Scanner(System.in);
         Person mik = new Person();
 
